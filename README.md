@@ -11,3 +11,7 @@ cd sala-de-aula
 ### 2.2 Abrir o meu projeto em um computador local, sem codespaces
 
 ## 3. Usando o `git pull`
+
+
+## 4. Criação e Troca de Branchs
+git switch -c [nome_da_branch]
