@@ -9,3 +9,5 @@ cd sala-de-aula
 ### 2.1 Crie um documento de anotações na pasta 'sala-de-aula'
 
 ### 2.2 Abrir o meu projeto em um computador local, sem codespaces
+
+## 3. Usando o `git pull`
