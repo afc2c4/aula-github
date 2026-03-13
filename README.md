@@ -14,6 +14,9 @@ cd sala-de-aula
 
 Antes de fazer qualquer commit tenho que me autenticar
 
+
+teste rafa
+
 Usar esses comandos:
 
 git config --global user.email "email@gmail.com"
